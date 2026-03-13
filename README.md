@@ -1,5 +1,9 @@
 # 🔗 utm-builder — Bulk UTM Link Generator for Marketers
 
+[\![Buy Now - \.99](https://img.shields.io/badge/Buy%20Now-%241.99-brightgreen?style=for-the-badge)](https://buy.stripe.com/9B6bJ09rtdip1tr0Mh4c80r)
+
+> **\.99 one-time purchase** — [Get utm-builder now](https://buy.stripe.com/9B6bJ09rtdip1tr0Mh4c80r) | Pure Python, no dependencies, immediate download
+
 **Stop building UTM links one at a time.**
 
 `utm-builder` is a fast, no-BS command-line tool that bulk-generates UTM-tagged URLs from a CSV file in seconds. Validate naming conventions, audit existing links for tracking gaps, and save reusable campaign templates — all from your terminal.
